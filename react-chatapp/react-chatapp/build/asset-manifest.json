@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/k-project-react-chatapp/static/css/main.b469cd9b.css",
+    "main.js": "/k-project-react-chatapp/static/js/main.81c0b93b.js",
+    "index.html": "/k-project-react-chatapp/index.html",
+    "main.b469cd9b.css.map": "/k-project-react-chatapp/static/css/main.b469cd9b.css.map",
+    "main.81c0b93b.js.map": "/k-project-react-chatapp/static/js/main.81c0b93b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b469cd9b.css",
+    "static/js/main.81c0b93b.js"
+  ]
+}
